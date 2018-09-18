@@ -1,0 +1,5 @@
+a=int(input())
+if(a%2)==0:
+	print("{0} even".format(a))
+else:
+	print("{0} odd".format(a))3
